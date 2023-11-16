@@ -1,0 +1,26 @@
+{
+  "name": "John James",
+  "age": 20,
+  "address": {
+    "street": "Lidul Park",
+    "city": "Naacako",
+    "state": "IL",
+    "zip": "21117"
+  },
+  "contact": {
+    "phone": "(474) 210-8874",
+    "servicePhone": "800185513"
+  },
+  "birthday": "1970-07-10T08:13:14.481Z",
+  "ip": "31.223.40.113",
+  "foo": "bar",
+  "profile": {
+    "about": "Opare imujo kubre ze far peawti kic ugopowo vilajpo hofiure diplo bihov vefpa jalo notwa hujtum nageb. Hesocri fumujeh ivocow mi cil hopo tamra lab du teti edbup ahu kirazbin bujiz epodomcep. Jibmu ifa vopagtov wej tu dadla uzpe tu kikobo vifke fu vuveg zuptulpep oji balarfer rofcolim naj dow. Puwkusih pimnuk wigrowpo mut unwihwah ih gop elote ro com tervuvum rupzuare loofaza ipi vitawiede kasij.",
+    "bio": "Dupip kus setemfak mo fifpa udaos guvu ev rozvup niwirana volirge baajumo mubsis mefo guorzij atifetaz bebtaja. He netifpa ci korudono zuhpejzev dugtebdi cusaezi wum ficdo zese sifiko kerca. Zerofet befku vi zej bozemtoj garkod le terokde wojgepa wi udapepuda vowe di. Fopdab ejludop lo row hinseas jus tetat ceru goagaac ukeg gestahla zi ifavef ozeruk ub. Ubewejbi ehgu pasveof cigfi goha mam miwvazipu ridjovku nevi kikejhiw al wozwadmos zew ovilasih nu tah."
+  },
+  "apiKey": "d0a74955c77c9f3b3b14b33a5554efeb23f705fae349b7374dbbee0e502184aa",
+  "currency": {
+    "code": "HRK",
+    "name": "Croatia Kuna"
+  }
+}
