@@ -1,0 +1,26 @@
+{
+  "name": "Harry Hanson",
+  "age": 18,
+  "address": {
+    "street": "Sifif Highway",
+    "city": "Tavhabuna",
+    "state": "NY",
+    "zip": "10925"
+  },
+  "contact": {
+    "phone": "(672) 685-9441",
+    "servicePhone": "800483213"
+  },
+  "birthday": "1970-07-04T05:39:27.932Z",
+  "ip": "43.119.9.95",
+  "foo": "bar",
+  "profile": {
+    "about": "Rur dicocen nedawa etuig re paek az zoj zul mez rekfa del mijo bufses tiufdal karpas. Warow howaap zejtuf azcan givbu cekav so ito dibjure rovuuzu ga bibpeew di gete vo vunefruz guuziga avke. Awfi vohcolde fure tok jok tiw so vevu zukba hutsu lonosza baj afe si. Genoak ol gozem gok mem mi gugsul ezhejdez ledaj voj fid sotadih wegser tesaju baduto. Suac mav wow jatanus sep um ga halpir asugus wo nosahwah am lagefad. Sarnaz nu jon lem giboc vuge pur hobposa vub giv jesel ipdobpar geh lozahpo bufwaw ji.",
+    "bio": "Pujiifo ipi lenu redmac miuropo aju nef zogtad jajbitod fedcadad socfag wol erza remvankez bapif rafapdi. Topevho urboloj pohsepu debo lok jiwcudip vid covfaki ebujojiw ejukeka gazier segfoalo raw ba mozjiise ses ami no. Voged zapvijfa jaek rukpo taj fi kavjoripi sinereah ilaf za wig je maja. Faf mozem midka zosujcec surjavan luso ne gur wanruzbe jirwip vos rezto li to jogteum. Tabcoclil iro ma holemor voviwvut ba zalurgoz bezomsa geici wakwob gac zimolcu kunzidu vokek ava wuvid orva. Duskaju sies te ut parusu bo ivo we dituki laflifni kofcimhop gizfu. Reju cojgeodi cop vumojtit pe ruktisag ureida kotu teluj terpanet oze nef wow kurumne fichechi dojic."
+  },
+  "apiKey": "da8e9df0b14df764fab27db169013a4e9b4fc94c9ae88758c9490bb06cf9d655",
+  "currency": {
+    "code": "NAD",
+    "name": "Namibia Dollar"
+  }
+}
