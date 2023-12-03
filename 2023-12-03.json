@@ -1,0 +1,26 @@
+{
+  "name": "Laura Newton",
+  "age": 64,
+  "address": {
+    "street": "Owaub Place",
+    "city": "Vuadalo",
+    "state": "OH",
+    "zip": "46654"
+  },
+  "contact": {
+    "phone": "(546) 564-7186",
+    "servicePhone": "800345129"
+  },
+  "birthday": "1974-10-29T22:29:11.545Z",
+  "ip": "30.142.177.194",
+  "foo": "bar",
+  "profile": {
+    "about": "Bu dehrop jalec rorik ilpuksaw hiwiv izrouv lu kotur jiwiba naoztaj iji ravu madmalifo is wa. Lehohhe bo kedwejzuf puhi zalfurur gaz te dutoz ocevok hi zuniw be. Lajdenata nebgonmat fan wa hailaozu be mezunjo vaur naswampe gejeog tiiri zorage huspaka pokihik aciba.",
+    "bio": "Dulgimtu vucaj gi vebuij teba ow fikjo nel rul wibo nek boh cukownid. Wohda obulighes bo rajdedkih savdeune fa zetceclo gu rifoniri toemhet ej jadog kupoudu debo rapesuji nej bukgoc lasaw. Vekebif semhinil fivbi tocurej liheatu henkucbed tiejuroz fomu zawjeese subwaaw da porhuih getonni ahasaru segi. Lapaf mokib ihete er gade biclod ec gan uha edruv az huero gahuta tomutco jaus guufihil. Wegel tuz si jiv edabe uceahbed otasad diduveh tueluwar ev vuriwanen kojebes nulza keom gude evbijisu ibo. Sim cenugeho sis wertehsez beew lobtaz zudkul vet ti fow catav lih sa tibimgac."
+  },
+  "apiKey": "ee891397b08657782925d212981f93b3e8e2aec80021526e5aae1d6d884fbadf",
+  "currency": {
+    "code": "TJS",
+    "name": "Tajikistan Somoni"
+  }
+}
