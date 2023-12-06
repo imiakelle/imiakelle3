@@ -1,0 +1,26 @@
+{
+  "name": "Sophie Walsh",
+  "age": 33,
+  "address": {
+    "street": "Talov Loop",
+    "city": "Egguweki",
+    "state": "IN",
+    "zip": "04158"
+  },
+  "contact": {
+    "phone": "(505) 484-8705",
+    "servicePhone": "800351139"
+  },
+  "birthday": "1996-03-31T22:37:53.118Z",
+  "ip": "88.15.110.232",
+  "foo": "bar",
+  "profile": {
+    "about": "Obonak nomaba cukzu beje esu iktitmo hu janahwus bued uz pu teeloho mepbemjoh. Od de galijula micluf damcati zuilu to abga mevesnol sapavle ciwaja nucve fo. Ri upa izge riv pal fuc buuna tu cij gowlotibu duav ah saamzel. Fasjad itdoc bazsu li ze dizir kag ew nuz kufnute lunas wegko ezugri joazsob durtebra. Has zukiwobu furgur wer epe rogunur wi tuhsur cinrijo puz pikfo posow fajto ku. Utbo bew bu curu goam abu nipi izeiheubo damiwev urekarivo nufiw keccuze gimic.",
+    "bio": "Neave taktiz kada rih ciinki jijma ko tanevpa hosjo awtukje tefutko za pecde wo ze sacgulu. Be tisijled urigwi gaza zeagagej ze jibsilvi cenco folesosaz nuw jahuk kolojot enpasep marapnak hiose vuj kuldizof. Waspaj siim cubej of guvub ipufirga vanlewinu eweukfuz daiso fodaru bi huegpim famos cuc monkenon isatas poflo dirtola."
+  },
+  "apiKey": "3b2e51dfa8ea6832166a842b94d084a4ec2043d5da595adecfdba4232c6f9727",
+  "currency": {
+    "code": "LRD",
+    "name": "Liberia Dollar"
+  }
+}
