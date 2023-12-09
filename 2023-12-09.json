@@ -1,0 +1,26 @@
+{
+  "name": "Samuel Sandoval",
+  "age": 43,
+  "address": {
+    "street": "Manoji Center",
+    "city": "Jomedjoz",
+    "state": "IL",
+    "zip": "40948"
+  },
+  "contact": {
+    "phone": "(408) 584-2230",
+    "servicePhone": "800514745"
+  },
+  "birthday": "1988-05-18T01:18:26.252Z",
+  "ip": "136.55.180.223",
+  "foo": "bar",
+  "profile": {
+    "about": "Tihane sac ipluzi fubhuz fovut ra cusav ihucefuk no buswarog bup wa. Hitim nu pauwiit ugucu solgotu wa janiivo cazetzu juwag we hofho fifema vejmuci bu. Jidpumun nufef temsusew dikope foguc solel fuv cel jen cum jemo lojilwob corca babteraz.",
+    "bio": "Sizopi zalzokzo eldewfu aha pologet ne hoocava sojet husi agne savja vivur tad. Uh tajul za ur anema duipkaf zuraer jeov hohid wehices sofu zo ga lu durafpeh agfij sotij. Owuzatte bogupa si cimo ewepeus im fogaf kul sipotdid ka wupekbe emiek po haz jitones natsu. Nufruuro zuf eje kumiwek rogojo sakoube te uv nozorore admewok ufate velergek. Cevpescob ke bozuhuf fokfig jobihzog efwoet begrilu dolmobe holu hefawab in olecivub vakogu pitose bihiji rizpi."
+  },
+  "apiKey": "7efb92f2852e1c34cb90e53a8766ce0a2db64c30163aeb32152a1cf64f5e0de6",
+  "currency": {
+    "code": "PLN",
+    "name": "Poland Zloty"
+  }
+}
