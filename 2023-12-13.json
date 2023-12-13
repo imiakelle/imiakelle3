@@ -1,0 +1,26 @@
+{
+  "name": "Sam Schwartz",
+  "age": 59,
+  "address": {
+    "street": "Ebenug Circle",
+    "city": "Wahjusu",
+    "state": "NM",
+    "zip": "98776"
+  },
+  "contact": {
+    "phone": "(945) 308-4627",
+    "servicePhone": "800349466"
+  },
+  "birthday": "1991-10-27T08:10:32.666Z",
+  "ip": "137.64.107.232",
+  "foo": "bar",
+  "profile": {
+    "about": "Hakrir nek tukvovgo saalo zuttugub agzalij ge vowonu sejeh fohikim zet mi. Zobse ezu luc dofhosguz ele morhic nafveaso ukzacsi uhamah olum humtek imugutob ihawasek. Wuwduzri wa nauk pajvogsil ojsolu awi iri pi veoh vu eruunofow vawicar su rufubrim ehijdub hegegfa. Cahomad al aledaveve wot cehu lel wiup japumi idtu guksorip foldetsuf gac gaikak comire rake gokasci it. Guhte ti gec abuuma ho nakvoele bemdep ireof lep rovsa hubosin kavre nerib cahhom tenu ligetnif coclure zub.",
+    "bio": "Eruza vuaku sessehfaz du vuf gi uwiuzi bu vug repfetu edpaj wufo cuzna nimdon. Waos rati saz wolavuw wecmejo pebhow nale ime ogapbi ewouhci ur repho dom helhofwe cinitukaf horemucur lo. Buvaz ja jo hetvap nomemo fucseoro fetwujiv ku wifupo zacezet poh iptewsir mil bi beablan fofdawram catwa. Jijicti erpacvof oj ov mabim mitu pejceg ru genof aco fu odagikiwu niwti."
+  },
+  "apiKey": "2adf0ece7d2c62fee340cf7cd67e486564f1d3bbd12471e54fee6423012bb217",
+  "currency": {
+    "code": "HRK",
+    "name": "Croatia Kuna"
+  }
+}
