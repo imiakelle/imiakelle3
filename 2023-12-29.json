@@ -1,0 +1,26 @@
+{
+  "name": "Gabriel Park",
+  "age": 30,
+  "address": {
+    "street": "Nennij Manor",
+    "city": "Igsesal",
+    "state": "OH",
+    "zip": "54764"
+  },
+  "contact": {
+    "phone": "(720) 887-6261",
+    "servicePhone": "800475325"
+  },
+  "birthday": "2001-03-30T08:20:20.058Z",
+  "ip": "161.145.68.105",
+  "foo": "bar",
+  "profile": {
+    "about": "Jiheg becozhuk rebgih di ecvi waz kug hub anu bamwo deminto ilenu fomnoru. Deh wu vujigfo owso keje bo rohna me vakpe soji zucvidat elinobfe. Ececuek co tu aravignal idvuftem eduta rawhaf puvu gom bin ja palnelza bug ovuvuvod li idon revipe bo. Wadnut ludsoh bez cuforaotu zoronano pih tu ci tasotak ruk sa rinbak casreje.",
+    "bio": "Copkese puv fe muotume toffirig geg fik huzzupzoc zikviku mafza suma lofeul jurpeego cenra. Afme faaha wep nuc tagig ron paner mas bukbus ahece esnajap zuk ejamiub wurete domafere. Cuumkup zu sijseaba ucuaza paani jiiwla bo liis nenmadpo jo pave paicomu hi zopo iheofcal miel fetujhaj."
+  },
+  "apiKey": "82841f7f28fcbcbcbe449b1fc2b83646b44a5d7c56f1c8f58da6fb4f617a22f2",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
