@@ -1,0 +1,26 @@
+{
+  "name": "Oscar Clayton",
+  "age": 47,
+  "address": {
+    "street": "Gibcu Boulevard",
+    "city": "Owupuge",
+    "state": "DE",
+    "zip": "99533"
+  },
+  "contact": {
+    "phone": "(224) 655-4815",
+    "servicePhone": "800887642"
+  },
+  "birthday": "1976-11-11T18:06:56.470Z",
+  "ip": "77.121.145.84",
+  "foo": "bar",
+  "profile": {
+    "about": "Ahoul il nudnahe rum bim cigik unge wafucimo no ukavapoz edma torru. Guli wu popokobem vugi sanet uba zahtihhu gukhe owricfip piciv fez zapop fawhehtor tis bew. Jidu biaw leggo ib hudgim fomadco iheb di omsim apa atlopi carenap. Fek jeuna tug tu nu id lituvdac fi rapgiom losubde zawovde wimago.",
+    "bio": "Kafikrud cale jadi tij zuplasgu vu rugri kemsogah guta amzecpar giewmes kuk tot zuovzub wihnob. Etal fudu ot nujjimhe pecfim dihotre safdo riklefe ser go gufveod sipkul luezu ivfegbi ragabje cirfe edo jivdeg. Egnir wewjuz fu cas ta if gus lagu iplu hogcu dutiwu loimo arwahab zozfog roj jacbabi guaduka dewnepizu. Ivivomop vijo led lumotazo ninalgo uvuesi laopcor lo gukjam ha upapovo caoheku wuprurvi ni uze lordilzus wan sorgew. Facvof tihdoefa fahte pucmoteg wesba getma tanu hulgu uke gud avusedi ameca tovun erwa ukebussur bu holija pek."
+  },
+  "apiKey": "897967a17564cd3bd4461b5cda96aa1c57a89240bcfe730b100d9641b5ba6e46",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
