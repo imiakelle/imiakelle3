@@ -1,0 +1,26 @@
+{
+  "name": "Billy Luna",
+  "age": 63,
+  "address": {
+    "street": "Libid Heights",
+    "city": "Nedesiso",
+    "state": "FL",
+    "zip": "34541"
+  },
+  "contact": {
+    "phone": "(777) 982-6591",
+    "servicePhone": "800218923"
+  },
+  "birthday": "1979-09-18T14:48:38.462Z",
+  "ip": "188.228.37.28",
+  "foo": "bar",
+  "profile": {
+    "about": "Ha oki avoguiz okoopo voruwof em jeno han vag oj su de. Zuc gidjizvun gejotade enuabtu du vamcopraz vawewapin ip nahamo lutor docje ge murrasraz noghiva tid fad eruaw. Nobisu oji wusuj las es me ba lepapukaw piefi jug oba numalif habuzovi fuzzuh gurcuz wareet.",
+    "bio": "He dakes vo ude umguhi tik bezpomun niwrehud ku nihmitop sefo emaunohun silebdi bevobbu. Fuzu wilu ofcuzor eworu hihza ir sefilleh kojzi mubu ze ge wame incucvu wotu sigun iztul zatfozfeb anudoune. Pohakru til ben calowha su ohzuzu ku ce ca lodribfos cocasumo raz recwowvav vacgifol adu. Mum ranhujki jin hobumeh migugep jeaku juuf ovuvavu sanso uhij rulahzu ro buh. Lefi hajjuruzu sas fuhnajhet fih huf haijuzu ni jemditi pido simem icti vuhho tuzvus ka jedgekgi. Zi imhuis jaetzu hup te getiba uheboeb uf vuti tov catdugwav webagtac jehatpag gijada jefona dismesewo wezu."
+  },
+  "apiKey": "36cbd4ee46ee7a81b434b0a431da0e61528fa18a59b46aefcca2b58a0a76aae4",
+  "currency": {
+    "code": "KPW",
+    "name": "Korea (North) Won"
+  }
+}
