@@ -1,0 +1,26 @@
+{
+  "name": "George Doyle",
+  "age": 25,
+  "address": {
+    "street": "Ipfo View",
+    "city": "Cugiwtas",
+    "state": "ID",
+    "zip": "87043"
+  },
+  "contact": {
+    "phone": "(333) 755-8097",
+    "servicePhone": "800783223"
+  },
+  "birthday": "1983-08-29T08:03:08.033Z",
+  "ip": "31.155.119.252",
+  "foo": "bar",
+  "profile": {
+    "about": "Kecod basidij hekiw tizomite lebulbik bocetaj bi juk rihujgej wiobasi ji hijikawur aknian cuke ogfo babudip dopnodso. Utajnav feli mi toomasi ipaka zug sebof ko zucu hejco jihuwe turonielo sucfa rekuk mu ibkug iso hoczijvih. Fonew modaw ogideci zijtihuzu odiasate irubo ege sugupiki tih huhoiwa sa la wo ga veti leehcer ruj vor. Bejhi giraf ahalimi hewkojcop gu asku sezuba okiraf ulnut onihudge dimazon pujdu urmol du hokjigso sedtajak.",
+    "bio": "Pacevtid rip niipru afukemi bu tihus nama iro tarfowvim mintav si rop. Tow mez gitusa ogu voaburof gacti wegwozav bev imidir lufebhic uteda zehlun kuplopu. Lobnazfon tediuzi nudo hineta zulsizal ew wofuf lakdof mak tefebuz vuw vel waloczoj inor izvu."
+  },
+  "apiKey": "93d47bba23d7f42012846d46d146cc0ec95346a3d7e0732373952ef9026249ea",
+  "currency": {
+    "code": "PLN",
+    "name": "Poland Zloty"
+  }
+}
