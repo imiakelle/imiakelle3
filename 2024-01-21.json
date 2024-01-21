@@ -1,0 +1,26 @@
+{
+  "name": "Hilda Fox",
+  "age": 50,
+  "address": {
+    "street": "Lolje Street",
+    "city": "Ewdagho",
+    "state": "NV",
+    "zip": "51206"
+  },
+  "contact": {
+    "phone": "(770) 937-7564",
+    "servicePhone": "800417816"
+  },
+  "birthday": "1997-05-07T06:25:09.719Z",
+  "ip": "188.208.12.88",
+  "foo": "bar",
+  "profile": {
+    "about": "Olvid ivawol defcow cumov fipa je zikje lo uderizter tifen weaga wofivico. Deari labris fop zijfuh faluwuf dinobo johofo ra neaza ja hutohzeh fiv goccezew numli jasacvoh bal uh aloavjob. Beko ol todfuj uvizoc za filwav erootvok dirdida jokje ocgah faz paw.",
+    "bio": "No ihge jeh igiuvpep suwe odofiso lutba anba gi al ma ovacwu labusoh hacmeb tuzjo avemuksiw. Fikpuk jidpighej wurzanfo ujho wiw suvjopwej ijzivmok ezaadi icgok kan dehin sorwisdih aru od sik lo henogepu. Zo hitob enu upuki go lasbabge pesahu hova getife jiufa juzagam su wutiac fuzcopaz dev. Anpuw vuzojde caso raki daseag gi pepli tofifok en suw suici wu pate no em."
+  },
+  "apiKey": "e71575260b7cbe5e4888eef73d318ee666745d2913589577a43d99b0d533b561",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
