@@ -1,0 +1,26 @@
+{
+  "name": "Andre May",
+  "age": 45,
+  "address": {
+    "street": "Hoteja View",
+    "city": "Hiztozdu",
+    "state": "NH",
+    "zip": "89526"
+  },
+  "contact": {
+    "phone": "(713) 862-5180",
+    "servicePhone": "800449211"
+  },
+  "birthday": "1972-06-13T04:37:50.596Z",
+  "ip": "199.95.77.20",
+  "foo": "bar",
+  "profile": {
+    "about": "Gise seztu cuh pe ka ri gucikviz no tidri im vowted daffihtiz cesebeg uguwe uz wekas jot he. Mivagim sacbok do rufus miw eceobke lot hefisa ninka simhawa jerjomo fir. Ger niamu fidridzu taher muwiju fir boputbi kowo opouz du udmawnan umpe. Jilawus opajupo konuz na abe co iwhew lugute onodof erupa wavnazwa nume olidemum kistunle mabnap. Mep kuje onu mopurbe oraal catvaf sob cofad zi cegetaf na coucuego fezco ca nuag tag jonden adon. Lakpamdaf jozomha ibcinip pasihes fidzorvu hur lij ilo sob zi ki topih buw lu indefmep ozwoke jek. Le povopbaf cobpebdac nac roacu cabsakwo gal vibe cowaz wugubiaz co kute jotleb nes peh hughudwas.",
+    "bio": "Famdud ros bogkiwic jomtasol lahu ij tocrit wunfico igsuove evakenko ta pesdu ik hok. Hat tajakbu hiomdip becsu coico vusiw omgu ko ko vefedik vocanu picmim loutu zoujwog edolon alabavavo miduwij efa. Vizsaat uk vuzem ru vahvani zoahbaj ittiej henlizol gejjog ciesada toh alhoveku ra."
+  },
+  "apiKey": "d4a8d9a68dfe90f3c9bc01ce5f5edbf033b69d1ed0137b4f25e010ae3b7b3181",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
