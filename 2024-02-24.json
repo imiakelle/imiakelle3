@@ -1,0 +1,26 @@
+{
+  "name": "Alan Cain",
+  "age": 29,
+  "address": {
+    "street": "Notec Point",
+    "city": "Jilelud",
+    "state": "IN",
+    "zip": "50412"
+  },
+  "contact": {
+    "phone": "(822) 729-8414",
+    "servicePhone": "800165788"
+  },
+  "birthday": "2003-04-26T18:51:31.348Z",
+  "ip": "235.80.23.86",
+  "foo": "bar",
+  "profile": {
+    "about": "Bor wutmalcih vagkidraf gicakmih ol kiultu nide ogunok wogeh ehumezli ibuce vomolu. Fetgogdej owe inhi te paptun cihwag roh muegu ucce vi binuada sobet kosmeoru fo ri. Ahabodol vufkijun buk luedi atkicope civdoske be su ekirawnu kawifco obeifnim ovcem keew otzi wiwi. Dok gazefit fe sizbizcu hu vemgaf cif tuhdour basnied dewolid racka pugcipi. Milwevdav afe lujo il molhe cosi lip zubhu rej epiora fepsa faw famamhuh wiroz oh na zocru tijices.",
+    "bio": "Ni cufovlo ri vidurfot pu dubha fo ez jod ewiototoc ujeho suh bile gumo wiljulifi ri. Igipifuv icabu ilipuc uz zep rozboh rugap wizpagvo bacudo nafac jovuzi fuohebar nacjutzow gawijzab lav rapigite kipziidi. Fozbebgop kihoz eb los vedaici ku kijmih zu zigmiz wedpani az vi fi tuv oji puducevon docafo zut. Otagumun cuatiwig hipu jugow ze late bi soj hakudi uj avaopa hov odup."
+  },
+  "apiKey": "c7742a8ead6df6554d29a71664f292609a90c73930b1568f139c73346788ec1f",
+  "currency": {
+    "code": "UAH",
+    "name": "Ukraine Hryvnia"
+  }
+}
