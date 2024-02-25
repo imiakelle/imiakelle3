@@ -1,0 +1,26 @@
+{
+  "name": "Eddie Rodgers",
+  "age": 19,
+  "address": {
+    "street": "Lajaz Trail",
+    "city": "Ejgotso",
+    "state": "AR",
+    "zip": "00721"
+  },
+  "contact": {
+    "phone": "(585) 287-8633",
+    "servicePhone": "800474287"
+  },
+  "birthday": "1994-07-02T16:27:47.503Z",
+  "ip": "31.68.238.94",
+  "foo": "bar",
+  "profile": {
+    "about": "Buw kav cig ucu ijo dod tinda ebteleb gobcuz siovcir kuwe ahetar vimsad revonag vum. Hoid lumuwa jifdijeb ta werur jat sigfowwok jeru iz wipbib bejudcet vaovdu. Desooru zun ivuco oto riiro jeag kupoz ipousuwi ruzwil sihu jemhic ajo inil su wumbo. Fom ceb vezek mec meb han up vip uvo havregvim edi reniam kiwwa pez teh.",
+    "bio": "Gefbimpeg cutet vovpom cec salloltu foj lucamge tetrolbew epija ofkanveh he motincus eno fel ka. Tijukkid vueb zafgejjo fazuepu re vu vugto zuf bip ci ruarvik to apfokum valtihan junac mu gacocih. Firisi panfuzfe ul nunmap bowrezhuf ahiimete epazujzi wir webfinu edevuga coczevu beut in taguk ho vanehon."
+  },
+  "apiKey": "e76a9a93966eced0f6afaf873ba490e96e18946df15831bee72d47601e350267",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
