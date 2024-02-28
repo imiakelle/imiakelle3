@@ -1,0 +1,26 @@
+{
+  "name": "Don Santos",
+  "age": 60,
+  "address": {
+    "street": "Ovdob Street",
+    "city": "Totzezji",
+    "state": "SC",
+    "zip": "47623"
+  },
+  "contact": {
+    "phone": "(266) 347-2140",
+    "servicePhone": "800675439"
+  },
+  "birthday": "1959-06-13T05:03:30.737Z",
+  "ip": "125.178.83.254",
+  "foo": "bar",
+  "profile": {
+    "about": "Su egogudcos tat moreguab abofon maad vu ume de kevgo edule ho do tak. Pacgep tabahem at uwanece emo ikvi leh vuwewwi veme no jufolu he. Ligavfa luecu noczu juztun hicfa ekiajhi kad peno ligaawo labnour ge hupakhi ichiv.",
+    "bio": "Lan wajgit retab aza wispafik igmeghif ra nob azliigo adhohgus ne hiujijac nofeg zetegna. Gac sevto efaowigaz ul fi esjimag jabom but ci mo bel cuzimam ri nefce laban bosaltu. Rokposi lajsoke fiz pos uwroc geco cipce jukusle ag hih pa vizpu mumuzobu donah. Osirude wusi isi circaato da jakofugo jevlu bagehza zoiti dordop duwzo komero gojpob eca unwu co. Cacuk ibasezod gigi vob nufugu ges jep fezo afajub iso ca vovaz ol uwasezub ki. Tugpab urahu vaozpa gunaf puva he ti ufne negsumwa puwa ni mo vuot. Fihbeso re dierifuc is zozec waf validfe zogdagij hujozwa maz ipe melca tew fesamula unakikji nilnad cez ma."
+  },
+  "apiKey": "6edf8b83d5ae35a064ea3d87ce95ad678b221fdd127ded89c71b7160065e77dc",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
