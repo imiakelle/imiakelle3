@@ -1,0 +1,26 @@
+{
+  "name": "Keith Harmon",
+  "age": 35,
+  "address": {
+    "street": "Kefeg Lane",
+    "city": "Hovmobeh",
+    "state": "NY",
+    "zip": "14789"
+  },
+  "contact": {
+    "phone": "(809) 965-2339",
+    "servicePhone": "800476987"
+  },
+  "birthday": "2005-10-31T20:37:16.476Z",
+  "ip": "175.65.19.52",
+  "foo": "bar",
+  "profile": {
+    "about": "Cokbaaj ekeofo avedi pimifo ro hapbu modorze si inoriz sa wugujwi biwit opsu iwe me ocuhot ota joto. Ihjowor rora zuac kemsuvze siblafce zep hu ta vo utolaeni ojto be gagwagaz dihfiga we ezuhiju pa viwdentez. Wa fapoh gi uhso kosutot um uzcacber fa vaf cunidur zamu ci dotpimdih la hanhauta.",
+    "bio": "Becorik gu poozu kihir jenzo eriucuna ceinasas ibza cu tijimok fisu pegrif niug pevo fajaz ge tuhapuh puk. Me kul goco naruma tefonbe lorbidnu cu inoaj tig toeh higuca sejagir. Pos wizlikso bahrawir eba affup gap waisu vihibuz pu gufisa vatbocam vuworuehi nesod. Jo vunrancal esubuj cujozdaz ozi wubiube wisjor zaji ban obesocwul zavo jiid jidzeg sigiciwav pihad edezoz."
+  },
+  "apiKey": "5fb3e07b0e8c7c67903ef3d4ddc0bf7739bbc2b724a813d84da8d5d8bdee04c2",
+  "currency": {
+    "code": "RSD",
+    "name": "Serbia Dinar"
+  }
+}
