@@ -1,0 +1,26 @@
+{
+  "name": "Albert Andrews",
+  "age": 43,
+  "address": {
+    "street": "Nurro Park",
+    "city": "Jabucbe",
+    "state": "RI",
+    "zip": "28866"
+  },
+  "contact": {
+    "phone": "(562) 342-3248",
+    "servicePhone": "800538787"
+  },
+  "birthday": "1989-01-18T05:19:44.303Z",
+  "ip": "73.33.13.114",
+  "foo": "bar",
+  "profile": {
+    "about": "Pozoag paw dudob vesida cedbog sezuol muc emo geheka pure sormozhi le. Jaec sijeg weavu vo vik bu famac erumilu revokeja kaj ji evutouci zemor cef. Mi najup jafzaav zofga cu rotbe sokoh ovi sukriw uluigi ek ide mis esisma zaho vehep tise. Bu wi ho lene cad haele ire zewvo ikdihiv cato motalri egeku. Ozwirel viihu vofipu une rir nago runlatav os socmiczo vemcu otofi hesegcoz lodfi.",
+    "bio": "Ifi tokifku hohku dofko kajeki buwehcuf wizi sam nefa cejjunkom vofu ozasug okkok ih gez ugkeluna ukgune. Pam nuznu rusec ciggibpa azodo nulofiv cavhawa duz amehuoza zu olves zihurha. Kubu enaop sosus bobne eg zihi teheko ifecab uzlibe rem div mepfizuj uhigo jin."
+  },
+  "apiKey": "ff7ff0b1b75ac1a6d2d8b2978a89cf93f4cbd7dc2b1685756f9172d51b2ad00d",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
