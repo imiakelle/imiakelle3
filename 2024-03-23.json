@@ -1,0 +1,26 @@
+{
+  "name": "Antonio Parks",
+  "age": 45,
+  "address": {
+    "street": "Bazog Place",
+    "city": "Gajzepa",
+    "state": "ID",
+    "zip": "15315"
+  },
+  "contact": {
+    "phone": "(731) 408-3623",
+    "servicePhone": "800311696"
+  },
+  "birthday": "1976-11-24T21:32:40.237Z",
+  "ip": "56.84.112.225",
+  "foo": "bar",
+  "profile": {
+    "about": "Ora mure evboze bedumpid enuciez gojegad men tuslicen tarumage zopo wo culuzowi. Oj mo faz zokok idij gancensos iwofac mizgad kuf danudji ofurinsu sovgoc. Cosrip eke waw nubowsi gecso oho padpizban hugkekzu edfilnoj dab sopuviroh gerfi pezeg doc wu tofide cu. Jaga wew racefuwoc upomehav kessowi rienu jerub ca dob uzze sedcab ak govebke luwoli makewu.",
+    "bio": "Gumkeew manomba ub kuzelju liba vovu buz ruken ade cog appor rabvi. Goj tucdo pazviiw soblisez pussep ib cuppednu zimmiblap durlum rariog envowow logi ac ozueb. Ze juwta uci paem wuburavo gicem haf sosukesel wanimub nopen gufotvi velihzi ek."
+  },
+  "apiKey": "3bd3a297d81184cfd35a684f7d8304efc650ab1b6338a3bdd6ef2bd9bf271614",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}
