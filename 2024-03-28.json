@@ -1,0 +1,26 @@
+{
+  "name": "Evan Singleton",
+  "age": 50,
+  "address": {
+    "street": "Nufca Drive",
+    "city": "Cilapnaj",
+    "state": "MT",
+    "zip": "73022"
+  },
+  "contact": {
+    "phone": "(809) 550-7173",
+    "servicePhone": "800232498"
+  },
+  "birthday": "1972-11-20T04:35:56.404Z",
+  "ip": "112.17.149.43",
+  "foo": "bar",
+  "profile": {
+    "about": "Kuh tadu luzuchuv saskip ge zidel pizvowed tuf jafkoz ab motwiddin seka golvetata ne irejo hu. Jegasmi aka ve fadik hibge esocejwa bed ipfu soama jen rumupiji havuzi le puc jonpavlib mawunlon goracid. Za kiwaemu keki jodu ebzavho poimi uwpew va noz gice toproves fepjas lac bumof sohoc akuib.",
+    "bio": "Geoke ja bifosaf zetmarego jespituj jiwu foel vot sar kogfeici mereh uf ogje peve. Vi lo la luvva forad fozom liztiw akizoeli manezi capbi deaco novocho agi veka zegokogar. Han vepnib bepor covho genu piezupe pek wun temadnej peczuza van uvsufnon puc vedi imi."
+  },
+  "apiKey": "d1849b3ae72cc67f70da325c8861c81841b9931dfad762840f94707af9234f0c",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
