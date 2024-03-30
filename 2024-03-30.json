@@ -1,0 +1,26 @@
+{
+  "name": "Andre Medina",
+  "age": 46,
+  "address": {
+    "street": "Zajfec Point",
+    "city": "Welivgoh",
+    "state": "NY",
+    "zip": "61555"
+  },
+  "contact": {
+    "phone": "(901) 967-1779",
+    "servicePhone": "800331938"
+  },
+  "birthday": "2002-08-26T18:26:55.492Z",
+  "ip": "87.247.211.230",
+  "foo": "bar",
+  "profile": {
+    "about": "Jib jin bicurfe ci tigci upi fa sapam todavuzo limtiv sur mi mejuowo bad dabas vuhtoha ijopo howcabo. Atnu tozu uwfuwahu rivil tu odmuvkur dor lat popcef baw rohha zah. Kedciuni fetivag ju wezlahvo uzre tudkar figihe jaad akvimku rig dahzonke dimo.",
+    "bio": "Es utno nimogbo wulwovpa bavpul ig atugiv pivbazaru nusag wowzeej tegcotu womege. Arpe zeosa rifwubgi rovug jofmi zirizu limukwoz artufo jiwba fal ce fonwa uvu dicattaj us vituve wotdude. Ok votmamwu topavmi ucgo we mede gafu deroh oc cilufna algek ejhu iro tuabfa lafmepgo vemturfuv paac. Ofsili sevdef obaiwa zujufsib zonjohti ohcovimi nuvhaduto jewa upga repag jalip tib."
+  },
+  "apiKey": "f3691788dece546fbf3c4b37a2813ea031a2e57540c79957044c9bb6a5ef651d",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
